@@ -10,6 +10,14 @@
     <h1>tugas 1</h1>
     <ol>
         <li>
+            <b>Nulla et interdum ex</b>
+            <p>
+                In hac habitasse platea dictumst. Donec eget volutpat elit. Integer vitae mollis erat. 
+                <br>Etiam eu odio id lectus varius efficitur
+            </p>
+        </li>
+        <br>
+        <li>
             <b>Duis dictum ante urna</b>
             <p>
                 fringilla condimentum dui scelerisque sit amet. 
